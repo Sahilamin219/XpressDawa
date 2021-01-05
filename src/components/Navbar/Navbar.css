@@ -1,0 +1,9 @@
+.help{
+	float: left;
+	margin-left: 5%;
+	/*word-spacing: 30px;*/
+}
+.menu{
+	margin-right: 5%;
+	float: right;
+}

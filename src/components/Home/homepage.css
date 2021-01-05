@@ -1,0 +1,87 @@
+.logo-h{
+	margin-top: 15%;
+	margin-left: 15%;
+	float: left;
+	width: 60px;
+	text-align:center
+}
+.space{
+	margin-left: 3%;
+}
+.give-margin{
+	margin-top: 3%;
+}
+ul.footer {
+  margin-top: 10px;
+  text-align: center;
+}
+
+ul.footer li {
+  color: #333;
+  display: inline-block;
+}
+
+#footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+html,body{
+    height: 100%
+}
+#holder {
+  min-height: 100%;
+  position:relative;
+}
+.span12{
+	.margin-left: 5%;
+}
+.circle-btn{
+	transition: all .2s ease-in-out;
+	padding: .7em 1em .9em;
+	border-radius: 25px;
+	border: 1px solid #dcdcdc;
+	display: inline-block;
+	color: #00334d;
+	font-size: .9375rem;
+	font-weight: 400;
+}
+.btn-outline{
+	/*background-color: transparent;*/
+  color: #3acbf7;
+  /*margin-left: 1%;*/
+  border: 1px solid var(--primary);
+  transition: all 0.3s ease-out;
+  padding: .7em 1em .9em;
+	border-radius: 25px;
+	/*z-index: -2;*/
+	cursor: pointer;
+	/*border: 1px solid #dcdcdc;*/
+	/*display: inline-block;*/
+	/*color: #00334d;*/
+	font-size: .9375rem;
+	/*font-weight: 400;*/
+}
+.hero-h{
+	/*background-size: cover;*/
+    /*background-position: bottom;*/
+    /*background-position-x: center;*/
+    /*background-position-y: bottom;*/
+    /*display: block;*/
+	/*right: 0;*/
+	text-align: left;
+	background: #E8E8E8;;
+	text-shadow: none;
+	/*font-family: Flama,sans-serif;*/
+	font-size: 1rem;
+	font-weight: 300;
+	letter-spacing: .01em;
+	line-height: 0.1em;
+	margin-bottom: 12px;
+	letter-spacing: .01em;
+	/*overflow: hidden;*/
+	/*position: absolute;*/
+	/*background-size: cover;*/
+	/*background-repeat: no-repeat;*/
+}
