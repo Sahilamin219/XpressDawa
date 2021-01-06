@@ -1,6 +1,6 @@
 .logo-h{
-	margin-top: 15%;
-	margin-left: 15%;
+	margin-top: 5%;
+	margin-left: 5%;
 	float: left;
 	width: 60px;
 	text-align:center
@@ -11,7 +11,7 @@
 .give-margin{
 	margin-top: 3%;
 }
-ul.footer {
+ul.footer ul{
   margin-top: 10px;
   text-align: center;
 }
@@ -22,9 +22,12 @@ ul.footer li {
 }
 
 #footer {
+	cursor: pointer;
     position: fixed;
+    background-color: white;
     bottom: 0;
     width: 100%;
+    /*z-index: -1;*/
 }
 
 html,body{
@@ -35,7 +38,7 @@ html,body{
   position:relative;
 }
 .span12{
-	.margin-left: 5%;
+	/*.margin-left: 5%;*/
 }
 .circle-btn{
 	transition: all .2s ease-in-out;
@@ -55,8 +58,7 @@ html,body{
   transition: all 0.3s ease-out;
   padding: .7em 1em .9em;
 	border-radius: 25px;
-	/*z-index: -2;*/
-	cursor: pointer;
+	/*z-index: 1;*/
 	/*border: 1px solid #dcdcdc;*/
 	/*display: inline-block;*/
 	/*color: #00334d;*/
@@ -68,13 +70,13 @@ html,body{
     /*background-position: bottom;*/
     /*background-position-x: center;*/
     /*background-position-y: bottom;*/
-    /*display: block;*/
+    display: block;
 	/*right: 0;*/
 	text-align: left;
-	background: #E8E8E8;;
+	background: #E8E8E8;
 	text-shadow: none;
-	/*font-family: Flama,sans-serif;*/
-	font-size: 1rem;
+	font-family: Tiempos Headline,Georgia,serif;
+	font-size: 0.8rem;
 	font-weight: 300;
 	letter-spacing: .01em;
 	line-height: 0.1em;
@@ -84,4 +86,163 @@ html,body{
 	/*position: absolute;*/
 	/*background-size: cover;*/
 	/*background-repeat: no-repeat;*/
+}
+.hero-p{
+	font-family: Flama,sans-serif;
+}
+.hide-desktop hp-mobile-video{
+background-color: blue;
+padding: 1.1em 6.5% 2em;
+float: left;
+}
+.featured-link-txt, .hw-hero-jump-txt {
+    display: inline;
+    color: #0af;
+    font-size: 1.125rem;
+    letter-spacing: .02em;
+    font-family: Flama,sans-serif;
+    font-weight: 400;
+    line-height: 1;
+    transition: all .2s;
+}
+.hp-meds-art-mod {
+
+    position: absolute;
+    background-size: 150%;
+    background-position: 80% 10%;
+    background-repeat: no-repeat;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100%;
+    height: 330px;
+
+}
+.hp-meds-list-mod {
+    max-width: 360px;
+    margin-bottom: 3em;
+}
+.hp-meds-txt-item {
+    margin-bottom: 1.75em;
+}
+.list-h, .os-diagram-component-h {
+    color: #00334d;
+    font-size: 1.125rem;
+    font-weight: 500;
+    letter-spacing: .01em;
+    line-height: 1.2em;
+    margin-bottom: .65em;
+}
+.list-p, .os-diagram-component-p, .partners-love-nps-p {
+    color: #00334d;
+    font-size: .9375rem;
+    font-weight: 300;
+    letter-spacing: .02em;
+    line-height: 1.35;
+    margin-bottom: 1em;
+    max-width: 345px;
+}
+{
+    box-sizing: border-box;
+}
+h1, h2, p {
+    letter-spacing: .01em;
+}
+
+
+.section {
+  /* margin: 0; */
+  /* padding: 0; */
+  /* border: 0; */
+  margin-top: 3%;
+  margin-bottom: 5%;
+  width: 100%; 
+  height: 100%;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  /*display: flex;*/
+  justify-content: center;
+  align-items: center;
+  font-size: 0.8rem;
+  background-color: rgb(218, 231, 231);
+  /* width: 200px;  */
+}
+.space {
+  width: 20px;
+}
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  border-radius: 5px; /* 5px rounded corners */
+}
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 4px 12px 20px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(213, 225, 230);
+  /* border-radius: 4px; */
+  transition: all 0.2s ease-out;
+  /* z-index: 1; */
+}
+
+/* Add some padding inside the card container */
+.container-h {
+  padding: 2px 16px;
+}
+.centre {
+  justify-content: center;
+  display: flex;
+  /* flex-direction: row; */
+  /* width: 100%; */
+  /* height: 50px; */
+  /* position: centre; */
+  /* top: 80px; */
+  /* left: -100%; */
+  /* opacity: 1; */
+  transition: all 0.5s ease;
+}
+.search-bar {
+  width: 50%;
+  margin-top: 3%;
+  margin-left: 12%;
+}
+* {
+  box-sizing: border-box;
+}
+form.example input[type="text"] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 60%;
+  height: 60%;
+  background: #f1f1f1;
+}
+
+/* Style the submit button */
+form.example button {
+  margin-top: 3%;
+  float: left;
+  width: 20%;
+  height: 60%;
+  padding: 10px;
+  background: #2196f3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; /* Prevent double borders */
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+/* Clear floats */
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
 }
