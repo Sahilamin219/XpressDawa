@@ -1,0 +1,1 @@
+// PhoneButton.jsx to display a phone button that will have the function to navigate to InputPhone component. 

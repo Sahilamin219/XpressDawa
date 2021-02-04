@@ -1,0 +1,186 @@
+{
+  "0": {
+    "BrandName": "Abdrot",
+    "Manufratured By": "Captab Biotec [Drotaverine]",
+    "Strength": "Abdrot 40mg x 2mL",
+    "Volume": "1",
+    "Presentation": "Abdrot VIAL",
+    "Price": "N/A"
+  },
+  "1": {
+    "BrandName": "Abdrot",
+    "Manufratured By": "Captab Biotec [Drotaverine]",
+    "Strength": "Abdrot 80mg",
+    "Volume": "100",
+    "Presentation": "Abdrot TAB",
+    "Price": "425.00"
+  },
+  "2": {
+    "BrandName": "Aceret",
+    "Manufratured By": "Glenmark (Gracewill) [Acitretin]",
+    "Strength": "Aceret 10mg",
+    "Volume": "10",
+    "Presentation": "Aceret CAP",
+    "Price": "350.00"
+  },
+  "3": {
+    "BrandName": "Aceret",
+    "Manufratured By": "Glenmark (Gracewill) [Acitretin]",
+    "Strength": "Aceret  25mg",
+    "Volume": "10",
+    "Presentation": "Aceret  CAP",
+    "Price": "625.00"
+  },
+  "4": {
+    "BrandName": "Acuvin",
+    "Manufratured By": "Piramal HC [Paracetamol /Acetaminophen]",
+    "Strength": "Acuvin Tramadol HCI,Paracetamol",
+    "Volume": "10",
+    "Presentation": "Acuvin TAB",
+    "Price": "40.18"
+  },
+  "5": {
+    "BrandName": "Albalon",
+    "Manufratured By": "Allergan [Ketotifen]",
+    "Strength": "Albalon 0.5mg",
+    "Volume": "5ml",
+    "Presentation": "Albalon EYE DPS",
+    "Price": "44.00"
+  },
+  "6": {
+    "BrandName": "A To Z",
+    "Manufratured By": "Alkem [Ascorbic Acid , Vitamin C]",
+    "Strength": "A To Z Vitamin C 100 mg,niacinamide 50 mg,vitamin B1 10 mg,vitamin B2 10 mg,vitamin B6 3 mg,calcium pantothenate12.5 mg, folic acid1 mg, vitamin B12 5mcg, vitamin Aacetate 500 IU,vitamin D3 500 IU,vitamin E acetate 25IU, zinc oxide 15mg, cupric oxide 2.5mg, sodium selenate60 mcg, manganesechloride 1.4 mg,chromic chloride 65mcg.",
+    "Volume": "10",
+    "Presentation": "A To Z TAB",
+    "Price": "57.00"
+  },
+  "7": {
+    "BrandName": "A To Z Dps",
+    "Manufratured By": "Alkem (Bergen) [Iodine]",
+    "Strength": "A To Z Dps Carbohydrate 0.55 g,lysine hydrochloride18 mg, lactoferrin1.5 mg, vitamin C 20mg, vitamin B3 4 mg,vitamin E 2 mg,vitamin B5 1.5 mg,vitamin B2 0.4 mg,vitamin B6 0.4 mg,vitamin B1 0.5 mg,vitamin A 345 mcg,vitamin D3 5 mcg,biotin 5 mcg,Elemental iron 0.4mg, Elemental iodine110 mcg, Elementalzinc 40 mcg,Elemental magnesium3 mcg, Elementalmolybdenum 2 mcg.",
+    "Volume": "15ml",
+    "Presentation": "A To Z Dps O-DPS",
+    "Price": "25.00"
+  },
+  "8": {
+    "BrandName": "A to Z DPS",
+    "Manufratured By": "Alkem (Bergen) [Biotin]",
+    "Strength": "A to Z DPS Carbohydrate 0.55 g,lysine hydrochloride18 mg, lactoferrin1.5 mg, vitamin C 20mg, vitamin B3 4 mg,vitamin E 2 mg,vitamin B5 1.5 mg,vitamin B2 0.4 mg,vitamin B6 0.4 mg,vitamin B1 0.5 mg,vitamin A 345 mcg,vitamin D3 5 mcg,biotin 5 mcg,Elemental iron 0.4mg, Elemental iodine110 mcg, Elementalzinc 40 mcg,Elemental magnesium3 mcg, Elementalmolybdenum 2 mcg.",
+    "Volume": "15ml",
+    "Presentation": "A to Z DPS DPS",
+    "Price": "25.00"
+  },
+  "9": {
+    "BrandName": "A to Z Gold NS",
+    "Manufratured By": "Alkem [Alpha-Lipoic Acid]",
+    "Strength": "A to Z Gold NS Carbohydrates 0.015g, proteins 0.016 g,fats 0.575 g,eicosapentaenoicacid 90 mg,docosahexaenoic acid60 mg, alpha lipoicacid 30 mg,proanthocyanidins 10mg, vitamin C 40 mg,vitamin E acetate 15mg, betacarotene 2.4mg, vitamin B6 2 mg,benfotiamine 1.6 mg,folic acid 108 mcg,vitamin B12 1 mcg.",
+    "Volume": "15",
+    "Presentation": "A to Z Gold NS SG-CAP",
+    "Price": "82.50"
+  },
+  "10": {
+    "BrandName": "A to Z Gold NS",
+    "Manufratured By": "Alkem [Eicosapentaenoic acid]",
+    "Strength": "A to Z Gold NS Carbohydrates 0.015g, proteins 0.016 g,fats 0.575 g,eicosapentaenoicacid 90 mg,docosahexaenoic acid60 mg, alpha lipoicacid 30 mg,proanthocyanidins 10mg, vitamin C 40 mg,vitamin E acetate 15mg, betacarotene 2.4mg, vitamin B6 2 mg,benfotiamine 1.6 mg,folic acid 108 mcg,vitamin B12 1 mcg.",
+    "Volume": "15",
+    "Presentation": "A to Z Gold NS SG-CAP",
+    "Price": "82.50"
+  },
+  "11": {
+    "BrandName": "A To Z Gold NS",
+    "Manufratured By": "Alkem [Docosahexaenoic acid]",
+    "Strength": "A To Z Gold NS Carbohydrates 0.015g, proteins 0.016 g,fats 0.575 g,eicosapentaenoicacid 90 mg,docosahexaenoic acid60 mg, alpha lipoicacid 30 mg,proanthocyanidins 10mg, vitamin C 40 mg,vitamin E acetate 15mg, betacarotene 2.4mg, vitamin B6 2 mg,benfotiamine 1.6 mg,folic acid 108 mcg,vitamin B12 1 mcg.",
+    "Volume": "15",
+    "Presentation": "A To Z Gold NS SG-CAP",
+    "Price": "82.50"
+  },
+  "12": {
+    "BrandName": "A To Z Gold NS",
+    "Manufratured By": "Alkem [Beta carotene]",
+    "Strength": "A To Z Gold NS Carbohydrates 0.015g, proteins 0.016 g,fats 0.575 g,eicosapentaenoicacid 90 mg,docosahexaenoic acid60 mg, alpha lipoicacid 30 mg,proanthocyanidins 10mg, vitamin C 40 mg,vitamin E acetate 15mg, betacarotene 2.4mg, vitamin B6 2 mg,benfotiamine 1.6 mg,folic acid 108 mcg,vitamin B12 1 mcg.",
+    "Volume": "15",
+    "Presentation": "A To Z Gold NS SG-CAP",
+    "Price": "82.50"
+  },
+  "13": {
+    "BrandName": "A to Z Gold NS",
+    "Manufratured By": "Alkem [Benfotiamine]",
+    "Strength": "A to Z Gold NS Carbohydrates 0.015g, proteins 0.016 g,fats 0.575 g,eicosapentaenoicacid 90 mg,docosahexaenoic acid60 mg, alpha lipoicacid 30 mg,proanthocyanidins 10mg, vitamin C 40 mg,vitamin E acetate 15mg, betacarotene 2.4mg, vitamin B6 2 mg,benfotiamine 1.6 mg,folic acid 108 mcg,vitamin B12 1 mcg",
+    "Volume": "15",
+    "Presentation": "A to Z Gold NS SG-CAP",
+    "Price": "82.50"
+  },
+  "14": {
+    "BrandName": "A To Z NS",
+    "Manufratured By": "Alkem [Citric acid monohydrate + potassium citrate]",
+    "Strength": "A To Z NS Vitamin C 40 mg,vitamin B3 16 mg,vitamin E 15 mg,vitamin B5 5 mg,vitamin B6 2 mg,vitamin B2 1.4 mg,vitamin B1 1.2 mg,vitamin A 600 mcg,folic acid 100 mcg,methylcobalamin 1mcg, Elemental zinc10 mg, Elementalmanganese 2 mg,Elemental copper 0.9mg, Elementalselenium 55 mcg,carbohydrate 0.423g, fat 0.014 g,protein 0.023 g,pinus pinaster barkextract 10 mg.",
+    "Volume": "15",
+    "Presentation": "A To Z NS TAB",
+    "Price": "57.00"
+  },
+  "15": {
+    "BrandName": "A To Z NS",
+    "Manufratured By": "Alkem [Ascorbic Acid , Vitamin C]",
+    "Strength": "A To Z NS Vitamin C 40 mg,vitamin B3 16 mg,vitamin E 15 mg,vitamin B5 5 mg,vitamin B6 2 mg,vitamin B2 1.4 mg,vitamin B1 1.2 mg,vitamin A 600 mcg,folic acid 100 mcg,methylcobalamin 1mcg, Elemental zinc10 mg, Elementalmanganese 2 mg,Elemental copper 0.9mg, Elementalselenium 55 mcg,carbohydrate 0.423g, fat 0.014 g,protein 0.023 g,pinus pinaster barkextract 10 mg.",
+    "Volume": "15",
+    "Presentation": "A To Z NS TAB",
+    "Price": "57.00"
+  },
+  "16": {
+    "BrandName": "A To Z NS Syr",
+    "Manufratured By": "Alkem [Iodine]",
+    "Strength": "A To Z NS Syr Carbohydrates 5.05g, fat 0.01 g,Elemental manganese1.5 mg, Elementalzinc 200 mcg,vitamin C 20 mg,vitamin B3 13 mg,vitamin E 5 mg,vitamin B5 3 mg,vitamin B2 1.2 mg,vitamin B6 1 mg,vitamin B1 1 mg,vitamin A 600 mcg,biotin 12 mcg,Elemental iodine 90mcg, Elementalselenium 30 mcg,Elemental molybdenum22 mcg/5 mL.",
+    "Volume": "100ml",
+    "Presentation": "A To Z NS Syr SYR",
+    "Price": "47.00"
+  },
+  "17": {
+    "BrandName": "A to Z NS Syr",
+    "Manufratured By": "Alkem [Biotin]",
+    "Strength": "A to Z NS Syr Carbohydrates 5.05g, fat 0.01 g,Elemental manganese1.5 mg, Elementalzinc 200 mcg,vitamin C 20 mg,vitamin B3 13 mg,vitamin E 5 mg,vitamin B5 3 mg,vitamin B2 1.2 mg,vitamin B6 1 mg,vitamin B1 1 mg,vitamin A 600 mcg,biotin 12 mcg,Elemental iodine 90mcg, Elementalselenium 30 mcg,Elemental molybdenum22 mcg/5 mL.",
+    "Volume": "100ml",
+    "Presentation": "A to Z NS Syr SYR",
+    "Price": "47.00"
+  },
+  "18": {
+    "BrandName": "A To Z Syr",
+    "Manufratured By": "Alkem [Iodine]",
+    "Strength": "A To Z Syr Vitamin A 2500 IU,vitamin E 7.5 IU,vitamin C 40 mg,vitamin D 200 IU,selenium 10 mcg,vitamin B1 2.25 mg,vitamin B2 2.5 mg,vitamin B3 22.5 mg,vitamin B6 1 mg,vitamin B12 2.5 mcg,pantothenic acid 2.5mg, calcium 1.25 mg,zinc 1 mg, chromium8 mcg, manganese 0.8mg, molybdenum 8mcg, iodine 50 mcg.",
+    "Volume": "100ml",
+    "Presentation": "A To Z Syr SYR",
+    "Price": "44.00"
+  },
+  "19": {
+    "BrandName": "A'Cold",
+    "Manufratured By": "Arika HC [Cetirizine + Pseudoephedrine]",
+    "Strength": "A'Cold Cetirizine 5 mg,Paracetamol 500 mg,Pseudoephedrine 30mg",
+    "Volume": "100",
+    "Presentation": "A'Cold TAB",
+    "Price": "190.00"
+  },
+  "20": {
+    "BrandName": "A'Cold",
+    "Manufratured By": "Arika HC [Cetirizine + Pseudoephedrine]",
+    "Strength": "A'Cold Cetirizine 5 mg,Paracetamol 500 mg,Pseudoephedrine 30mg/5 mL.",
+    "Volume": "60ml",
+    "Presentation": "A'Cold SUSP",
+    "Price": "38.00"
+  },
+  "21": {
+    "BrandName": "A'Cold Dps",
+    "Manufratured By": "Arika HC [Phenylephrine]",
+    "Strength": "A'Cold Dps Chlorpheniraminemaleate 1 mg,Phenylephrine 2.5mg, Paracetamol 125mg/5 mL.",
+    "Volume": "10ml",
+    "Presentation": "A'Cold Dps DPS",
+    "Price": "24.00"
+  },
+  "22": {
+    "BrandName": "A'fresh",
+    "Manufratured By": "Arika HC [Chlorhexidine ]",
+    "Strength": "A'fresh 0.2% w/v",
+    "Volume": "100ml",
+    "Presentation": "A'fresh M-WASH",
+    "Price": "42.00"
+  }
+}

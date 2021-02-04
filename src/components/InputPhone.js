@@ -1,0 +1,1 @@
+// InputPhone.jsx to handle phone number configurations
