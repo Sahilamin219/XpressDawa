@@ -12,7 +12,7 @@ Collection of data in csvtojson.json (checkout Fetch.js)
 Search bar added
 
 Searching feature added
-“detect when user stop write in input field” Code Answer
+<b style="text-decoration: underline">“detect when user stop write in input field”</b> Code Answer
 
     class Search extends Component {
       constructor(props){
